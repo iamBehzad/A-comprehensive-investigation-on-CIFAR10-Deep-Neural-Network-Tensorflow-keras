@@ -1,4 +1,4 @@
-# CIFAR10-Deep-Neural-Network-Tensorflow-keras
+# A comprehensive investigation on CIFAR10 Deep Neural Network(Tensorflow-keras)
 This code implements a deep neural network for the CIFAR10 dataset, with the goal of achieving high accuracy and low loss.
 
 In the next step, the SELU activation function has been selected for the hidden layers, and the weights have been initialized for self-normalization. The accuracy and loss of the model have been plotted for the train and validation data without changing the number of neurons and layers.
